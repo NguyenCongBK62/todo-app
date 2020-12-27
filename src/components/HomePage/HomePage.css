@@ -1,0 +1,9 @@
+.HomePage {
+  border: 5px red;
+  height: 500px;
+}
+
+.row {
+  margin-right: -50px;
+  margin-left: -50px;
+}
